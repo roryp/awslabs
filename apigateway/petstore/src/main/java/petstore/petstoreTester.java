@@ -24,7 +24,7 @@ public class petstoreTester {
         //    System.out.println(result.sdkResponseMetadata().requestId());
         //    System.out.println(result.sdkResponseMetadata().httpStatusCode());
         result.sdkResponseMetadata().header("Content-Length").ifPresent(System.out::println);
-        
+
         client.shutdown();
 
     }

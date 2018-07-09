@@ -2,7 +2,7 @@
 
 
 
-**Part 1 - EC2**
+### **Part 1 - EC2**
 
 Create KeyPair 
 
@@ -55,7 +55,7 @@ cd <your_project_name>
 
 mvn test
 
-### Script to commit and push on Codestar EC2
+### Appendix B - Script to commit and push on Codestar EC2
 
 git commit -a
 
