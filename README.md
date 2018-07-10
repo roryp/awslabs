@@ -76,7 +76,7 @@ Use the Amazon API Gateway console to create and test a simple API with the HTTP
 
 #### Lab
 
-##### Create a Java client sdk for your Petstore API
+##### Create a Java client SDK for your Petstore API
 
 To call your Petstore API via Java , you must use a Java Client SDK for your API.
 
