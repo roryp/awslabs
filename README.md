@@ -60,7 +60,7 @@ Call the "Hello world" REST service via the API gateway tests
 
 
 
-### Part 4 - Calling an 3rd party Api 
+### Part 4 - Calling an 3rd party API 
 
 Use the Amazon API Gateway console to create and test a simple API with the HTTP integration for a PetStore website 
 
@@ -76,7 +76,7 @@ Use the Amazon API Gateway console to create and test a simple API with the HTTP
 
 #### Lab
 
-##### Create a Java client sdk for your Petstore api
+##### Create a Java client sdk for your Petstore API
 
 To call your API via Java , you must generate the Java  SDK of the API.
 
