@@ -143,6 +143,8 @@ mvn test
 
 ## Appendix C - Links
 
-1. https://github.com/aws-samples/aws-developer-workshop
-2. https://github.com/aws-samples/aws-serverless-workshops
-3. [https://github.com/aws-samples/api-gateway-secure-pet-store](https://github.com/aws-samples/api-gateway-secure-pet-store)
+1. This repo - https://github.com/roryp/awscodestar
+2. Additional workshops
+   - https://github.com/aws-samples/aws-developer-workshop
+   - https://github.com/aws-samples/aws-serverless-workshops
+3. Repository for the PetStore API  - [https://github.com/aws-samples/api-gateway-secure-pet-store](https://github.com/aws-samples/api-gateway-secure-pet-store)
