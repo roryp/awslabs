@@ -68,7 +68,7 @@ Use the Amazon API Gateway console to create and test a simple API with the HTTP
 
 
 
-**Setup** **- **Generate Petstore Server api
+**Setup** - Generate Petstore Server api
 
 - https://console.aws.amazon.com/apigateway/home?region=us-east-1#/apis/create
 
