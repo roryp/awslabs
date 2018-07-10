@@ -143,7 +143,7 @@ mvn test
 
 ## Appendix C - Links
 
-1. This repo - https://github.com/roryp/awscodestar
+1. This repo - https://github.com/roryp/awslabs
 2. Additional workshops
    - https://github.com/aws-samples/aws-developer-workshop
    - https://github.com/aws-samples/aws-serverless-workshops
